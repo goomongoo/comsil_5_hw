@@ -8,6 +8,10 @@ void second_branch() {
     printf("Hello from second branch!\n");
 }
 
+void third_branch() {
+    printf("Hello from third branch!\n");
+}
+
 int main(void) {
     printf("Hello from main branch!\n");
     first_branch();
